@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+.venv/
+# Keep reviewed output/*.png examples in source control.

@@ -1,0 +1,2 @@
+# Local offline artwork tool; no dependency is installed by the generator.
+Pillow>=9.1
